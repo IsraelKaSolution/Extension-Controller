@@ -1,0 +1,34 @@
+{
+  "fileName": "id_1733273630856_73_codeExt",
+  "fileType": "change",
+  "changeType": "codeExt",
+  "moduleName": "customer/adaption/myinbox/08/changes/coding/CustomController",
+  "reference": "customer.adaption.myinbox.08",
+  "packageName": "$TMP",
+  "content": {
+    "codeRef": "coding/CustomController.js"
+  },
+  "selector": {
+    "controllerName": "cross.fnd.fiori.inbox.view.S2"
+  },
+  "layer": "CUSTOMER_BASE",
+  "texts": {},
+  "namespace": "apps/cross.fnd.fiori.inbox/adapt/customer.adaption.myinbox.08/changes/",
+  "projectId": "customer.adaption.myinbox.08",
+  "creation": "2024-12-04T00:53:50.856Z",
+  "originalLanguage": "EN",
+  "support": {
+    "generator": "@sap-ux/control-property-editor",
+    "service": "",
+    "user": "",
+    "sapui5Version": "1.96.31",
+    "sourceChangeFileName": "",
+    "compositeCommand": "",
+    "command": ""
+  },
+  "oDataInformation": {},
+  "dependentSelector": {},
+  "jsOnly": false,
+  "variantReference": "",
+  "appDescriptorChange": false
+}
